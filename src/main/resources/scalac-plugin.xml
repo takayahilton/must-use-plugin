@@ -1,0 +1,4 @@
+<plugin>
+    <name>must-use-plugin</name>
+    <classname>com.github.takayahilton.must_use.MustUsePlugin</classname>
+</plugin>
